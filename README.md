@@ -1,8 +1,6 @@
 # Lead QA Assessment
 Welcome to your QA Lead Assessment!
 
-Find your sample code in the folder "QALeadAssessment_SampleCode". This code contains the dependencies and structure we want you to follow.
-
 To validate your test cases for the REST API, follow these steps:
 
 1. Install Node.js. You can download Node.js from https://nodejs.org.<br>
